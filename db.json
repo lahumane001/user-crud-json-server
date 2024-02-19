@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "firstname": "Lahu",
+      "lastname": "Mane",
+      "email": "lahumane001@gmail.com",
+      "address": "vadgaon bk",
+      "id": 2
+    },
+    {
+      "firstname": "deepak",
+      "lastname": "Khaire",
+      "email": "deepak111@gmail.com",
+      "address": "SambhajiNagar",
+      "id": 4
+    },
+    {
+      "firstname": "Gaurav",
+      "lastname": "Kudale",
+      "email": "Gaurav001@gmail.com",
+      "address": "pune",
+      "id": 5
+    }
+  ]
+}
