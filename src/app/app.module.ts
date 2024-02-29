@@ -8,12 +8,16 @@ import { UserListComponent } from './user-list/user-list.component';
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { UserDataService } from 'src/shared/userService.service';
+import { HeaderComponent } from './header/header.component';
+import { HomeComponent } from './home/home.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     UserAddComponent,
-    UserListComponent
+    UserListComponent,
+    HeaderComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,

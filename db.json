@@ -4,22 +4,33 @@
       "firstname": "Lahu",
       "lastname": "Mane",
       "email": "lahumane001@gmail.com",
+      "contact": "9075484030",
       "address": "vadgaon bk",
       "id": 2
-    },
-    {
-      "firstname": "deepak",
-      "lastname": "Khaire",
-      "email": "deepak111@gmail.com",
-      "address": "SambhajiNagar",
-      "id": 4
     },
     {
       "firstname": "Gaurav",
       "lastname": "Kudale",
       "email": "Gaurav001@gmail.com",
-      "address": "pune",
+      "contact": "9145694030",
+      "address": "Malshiras",
       "id": 5
+    },
+    {
+      "firstname": "deepak",
+      "lastname": "Khaire",
+      "email": "deepak111@gmail.com",
+      "contact": "7276402040",
+      "address": "SambhajiNagar",
+      "id": 6
+    },
+    {
+      "firstname": "mangesh",
+      "lastname": "salunkhe",
+      "email": "mangesh@gmail.com",
+      "contact": "7856453426",
+      "address": "pune",
+      "id": 7
     }
   ]
 }

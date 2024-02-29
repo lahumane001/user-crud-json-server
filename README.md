@@ -1,28 +1,11 @@
-# AngularCrud
+I complted this task with all validation Also I give alert for If new user add but this Email Id is already exit in data Then Its give alert .If you want to run this code then you need to follow the below step .
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+step1 : open this link and clone the repository
 
-## Development server
+step2: open terminal and add command "npm install"
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+step3: to run the json server we need to add "json-server --w db,json".
 
-## Code scaffolding
+step4 : ng serve.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# user-crud-json-server

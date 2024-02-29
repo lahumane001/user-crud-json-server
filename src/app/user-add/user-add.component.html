@@ -1,5 +1,5 @@
 
-<div class="row pt-5">
+<div class="row py-5">
   <div class="col-6 offset-3">
     <h3 class="text-secondary text-center mb-2">{{ isEditMode ? 'Edit User' : 'Add New User' }}</h3>
     <form [formGroup]="userFormData" (ngSubmit)="onSubmit()">
@@ -23,6 +23,11 @@
           <label for="email">Email<span class="text-danger">*</span></label>
           <input type="email" class="form-control" placeholder="abc@gmail.com" id="email" formControlName="email">
           <span class="text-danger"*ngIf="userFormData.get('email')?.invalid && userFormData.get('email')?.touched">Email is required...</span>
+        </div>
+        <div class="form-group">
+          <label for="contact">Contact<span class="text-danger">*</span></label>
+          <input type="text" class="form-control" placeholder="1234567890" id="contact" formControlName="contact">
+          <span class="text-danger"*ngIf="userFormData.get('contact')?.invalid && userFormData.get('contact')?.touched">contact is required...</span>
         </div>
         <div class="form-group">
           <label for="age">Address<span class="text-danger">*</span></label>

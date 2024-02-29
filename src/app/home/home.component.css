@@ -1,0 +1,9 @@
+.user{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    font-size: 40px;
+    color: rgb(220, 82, 13);
+    transform: translate(-50%, -50%);
+    box-shadow: 13px 13px 32px 1px #a8a4a4;
+}
